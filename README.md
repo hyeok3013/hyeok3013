@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+👀 I’m interested in flutter
+📫 How to reach me todaysummary97@gmail.com
+
 <!--
 **hyeok3013/hyeok3013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
