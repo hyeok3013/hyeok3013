@@ -1,4 +1,10 @@
-<h1 align="center">Flutter Developer</h1>
+<h1 align="center"> Flutter Developer </h1>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 
 
@@ -12,6 +18,7 @@
 > 🚀 **사용자 피드백을 반영한 기능 개선과 협업 능력**  
 > 💡 **지속적인 성장을 목표로 새로운 기술과 도전을 추구**
 
+---
 
 ### 💼 Project Experience
 
