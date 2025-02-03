@@ -118,7 +118,7 @@
 
 ### 🎓 Education & Achievements
 
-- **엘리스 Flutter 앱 개발 부트캠프** (2024.07 - 현재)
+- **엘리스 Flutter 앱 개발 부트캠프** (2024.07 - 24.12)
     - Dart 및 Flutter 기반 iOS, AOS 개발 학습. 팀 프로젝트 및 Git 협업 경험 축적.
 - **애플 디벨로퍼 아카데미** ((2023.03 - 2023.12))
     - Swift 및 SwiftUI를 이용한 앱 개발 학습. Git 및 협업 도구 활용.
